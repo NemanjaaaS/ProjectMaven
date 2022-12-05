@@ -12,7 +12,7 @@
         <module>ChildProject</module>
         <module>Child</module>
     </modules>
-<!--EDITED FILE TESTING JENKINNNNS -->
+<!--EDITED FILE TESTING  -->
     <properties>
         <revision>1.7-SNAPSHOT</revision>
         <maven.compiler.source>19</maven.compiler.source>
